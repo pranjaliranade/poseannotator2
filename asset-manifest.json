@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/poseannotator2/static/css/main.f855e6bc.css",
+    "main.js": "/poseannotator2/static/js/main.ef120055.js",
+    "static/js/453.a979b4e5.chunk.js": "/poseannotator2/static/js/453.a979b4e5.chunk.js",
+    "static/media/run.mp4": "/poseannotator2/static/media/run.75702a237c93fceda84c.mp4",
+    "index.html": "/poseannotator2/index.html",
+    "main.f855e6bc.css.map": "/poseannotator2/static/css/main.f855e6bc.css.map",
+    "main.ef120055.js.map": "/poseannotator2/static/js/main.ef120055.js.map",
+    "453.a979b4e5.chunk.js.map": "/poseannotator2/static/js/453.a979b4e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ef120055.js"
+  ]
+}
